@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg width="15px" height="15px" viewBox="0 0 15 15" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+    <!-- Generator: Sketch 59.1 (86144) - https://sketch.com -->
+    <title>Oval Copy</title>
+    <desc>Created with Sketch.</desc>
+    <defs>
+        <circle id="path-1" cx="504.5" cy="1240.5" r="5.5"></circle>
+    </defs>
+    <g id="Schedule" stroke="none" stroke-width="1" fill="none" fill-rule="evenodd">
+        <g id="Desktop-HD-Copy" transform="translate(-497.000000, -1233.000000)">
+            <g id="Oval-Copy">
+                <use fill="#FFFFFF" fill-rule="evenodd" xlink:href="#path-1"></use>
+                <circle stroke="#070A0E" stroke-width="2" cx="504.5" cy="1240.5" r="6.5"></circle>
+                <circle stroke="#070A0E" stroke-width="4" stroke-linejoin="square" cx="504.5" cy="1240.5" r="3.5"></circle>
+                <circle stroke="#289BD2" stroke-width="2" stroke-linejoin="square" cx="504.5" cy="1240.5" r="4.5"></circle>
+            </g>
+        </g>
+    </g>
+</svg>
